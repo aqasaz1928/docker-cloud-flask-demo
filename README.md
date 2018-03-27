@@ -1,6 +1,7 @@
 # Flask Skeleton - Docker Cloud Demo
 
 Flask starter project... https://cloud.docker.com
+to learn docker cloude devOps
 
 ## Quick Start
 
